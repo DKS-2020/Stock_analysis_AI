@@ -1,4 +1,4 @@
-# Stock_analysis_AI# Stock Analysis AI
+# Stock_analysis_AI
 
 A full-stack web application for stock market analysis that provides price visualization, technical indicators, and basic trading signals.
 
